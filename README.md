@@ -1,9 +1,9 @@
 
-git clone https://github.com/forestarmyYT/dawn.git
+git clone https://github.com/Mrjihad28/DawnBot.git
 
-cd dawn
+cd DawnBot
 
-unzip dawn.zip
+unzip DawnBot.zip
 
 pip install -r requirements.txt
 
